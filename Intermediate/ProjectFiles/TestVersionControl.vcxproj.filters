@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\TestVersionControl.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{87D9EDED-0C08-4F58-97D5-7EE574E0C129}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\TestVersionControl.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\TestVersionControlEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{9C86ABB6-5A49-4631-9BE7-67FDEB11C1AF}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\TestVersionControl">
+			<UniqueIdentifier>{0AE0E2EC-24A5-45F1-AEDF-C09A52E0DBDD}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\TestVersionControl\TestVersionControl.Build.cs">
+			<Filter>Source\TestVersionControl</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\TestVersionControl\TestVersionControl.cpp">
+			<Filter>Source\TestVersionControl</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\TestVersionControl\TestVersionControl.h">
+			<Filter>Source\TestVersionControl</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\TestVersionControl\ThorstenFlinck.cpp">
+			<Filter>Source\TestVersionControl</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\TestVersionControl\ThorstenFlinck.h">
+			<Filter>Source\TestVersionControl</Filter>
+		</ClInclude >
+		<Filter Include="Source\TestVersionControl\Resources">
+			<UniqueIdentifier>{F2E71D37-EE4C-4711-85E8-53C6C10EFE9D}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="Source\TestVersionControl\Resources\Windows">
+			<UniqueIdentifier>{4B467F4D-832C-4698-BE72-B1723E7F1C67}</UniqueIdentifier>
+		</Filter>
+		<ResourceCompile Include="..\..\Source\TestVersionControl\Resources\Windows\TestVersionControl.rc">
+			<Filter>Source\TestVersionControl\Resources\Windows</Filter>
+		</ResourceCompile >
+	</ItemGroup>
+</Project>
