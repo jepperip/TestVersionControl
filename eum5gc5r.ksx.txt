@@ -1,0 +1,58 @@
+﻿Merge remote-tracking branch 'origin/master'
+
+Conflicts:
+	Intermediate/CachedAssetRegistry.bin
+	Intermediate/ReimportCache/3688439234.bin
+	Saved/Config/Windows/EditorLayout.ini
+	Saved/Config/Windows/EditorUserSettings.ini
+	Saved/Config/Windows/Engine.ini
+#
+# It looks like you may be committing a merge.
+# If this is not correct, please remove the file
+#	.git/MERGE_HEAD
+# and try again.
+
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch and 'origin/master' have diverged,
+# and have 1 and 2 different commits each, respectively.
+#   (use "git pull" to merge the remote branch into yours)
+#
+# All conflicts fixed but you are still merging.
+#
+# Changes to be committed:
+#	new file:   Binaries/Win64/UE4Editor-TestVersionControl-1146.dll
+#	new file:   Binaries/Win64/UE4Editor-TestVersionControl-6452.dll
+#	new file:   Binaries/Win64/UE4Editor-TestVersionControl.dll
+#	modified:   Config/DefaultEngine.ini
+#	new file:   Content/KulKille.uasset
+#	modified:   Content/Untitled.umap
+#	modified:   Intermediate/CachedAssetRegistry.bin
+#	modified:   Intermediate/Config/CoalescedSourceConfigs/Engine.ini
+#	modified:   Intermediate/Config/CoalescedSourceConfigs/Game.ini
+#	new file:   Intermediate/ProjectFiles/TestVersionControl.vcxproj
+#	new file:   Intermediate/ProjectFiles/TestVersionControl.vcxproj.filters
+#	new file:   Intermediate/ProjectFiles/UE4.vcxproj
+#	new file:   Intermediate/ProjectFiles/UE4.vcxproj.filters
+#	modified:   Saved/AutoScreenshot.png
+#	new file:   Saved/Autosaves/Game/KulKille_Auto1.uasset
+#	modified:   Saved/Autosaves/PackageRestoreData.json
+#	modified:   Saved/Config/Windows/Editor.ini
+#	modified:   Saved/Config/Windows/EditorLayout.ini
+#	modified:   Saved/Config/Windows/EditorUserSettings.ini
+#	modified:   Saved/Config/Windows/Engine.ini
+#	modified:   Saved/Config/Windows/SourceControlSettings.ini
+#	new file:   Source/TestVersionControl.Target.cs
+#	new file:   Source/TestVersionControl/Resources/Windows/TestVersionControl.rc
+#	new file:   Source/TestVersionControl/TestVersionControl.Build.cs
+#	new file:   Source/TestVersionControl/TestVersionControl.cpp
+#	new file:   Source/TestVersionControl/TestVersionControl.h
+#	new file:   Source/TestVersionControl/ThorstenFlinck.cpp
+#	new file:   Source/TestVersionControl/ThorstenFlinck.h
+#	new file:   Source/TestVersionControlEditor.Target.cs
+#	new file:   TestVersionControl.sln
+#	modified:   TestVersionControl.uproject
+#
+
